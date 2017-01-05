@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "我的第一个jekyll博客"
+date:   2017-01-05 16:06:22 +0800
+categories: wymDon update
+---
+## pip快捷安装
+1. 进入python的安装目录一般为C盘
+
+```
+C:\Users\Administrator>cd C:\Python27\Scripts
+```
+2. 例如安装Ghost.py
+
+```
+C:\Users\Administrator>pip install Ghost.py
+```
+
+3.安装完成如图
+
+![image](D:\instGhost1.png)
+
+4.测试到python命令行
+
+```python
+import ghost
+```
+不报错及安装成功
+
+---
+## 第二种下载安装包方法
+
