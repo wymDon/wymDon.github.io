@@ -7,7 +7,7 @@ categories: wymDon update
 ## pip快捷安装
 1. 进入python的安装目录一般为C盘
 
-{% highlight python %}
+{% highlight ruby %}
 C:\Users\Administrator>cd C:\Python27\Scripts
 {% endhighlight %}
 2. 例如安装Ghost.py
