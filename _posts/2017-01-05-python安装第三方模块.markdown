@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "我的第一个jekyll博客"
-date:   2017-01-05 16:06:22 +0800
+title:  "python pip 安装第三方模块"
+date:   2017-01-05 17:46:22 +0800
 categories: wymDon update
 ---
 ## pip快捷安装
@@ -16,10 +16,6 @@ C:\Users\Administrator>cd C:\Python27\Scripts
 C:\Users\Administrator>pip install Ghost.py
 ```
 
-3.安装完成如图
-
-![image](D:\instGhost1.png)
-
 4.测试到python命令行
 
 ```python
@@ -29,4 +25,8 @@ import ghost
 
 ---
 ## 第二种下载安装包方法
+将第三方模块下载到本地
+```
+C:\Users\Administrator>pip install 安装包路径
+```
 
