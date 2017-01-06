@@ -25,4 +25,4 @@ git config --global credential.helper store
 [credential]
     helper = store
 ```
-># 重新开启git bash会发现git push时不用再输入用户名和密码
+> 重新开启git bash会发现git push时不用再输入用户名和密码
