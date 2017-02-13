@@ -10,6 +10,7 @@ Architecture 	x86
 > 此信息很容易坑，我的系统为64位win7 但是集成环境xampp下的php是32位的所以要下载X86的redis扩展
 Thread Safety 	enabled
 > 此处要选择TS版本的扩展
+> 重启nginx查看配置是否成功
 
 2. 将php_redis.dll放入php安装目录的ext扩展文件夹
 
