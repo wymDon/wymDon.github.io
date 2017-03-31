@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "windows下php7如何安装redis扩展"
+title:  "win7安装ffmpeg"
 date:   2017-03-31 16:29:22 +0800
 categories: wymDon update
 ---
