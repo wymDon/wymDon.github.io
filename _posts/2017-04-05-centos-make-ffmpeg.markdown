@@ -16,7 +16,7 @@ make && make install
 
 下面是一些坑
 
-##不能启动
+## 不能启动
 ```linux
 ffmpeg // /usr/local/ffmpeg/bin/ffmpeg
 ```
