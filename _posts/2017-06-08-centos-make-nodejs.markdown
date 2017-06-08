@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "centos编译安装ffmpeg"
+title:  "node.js之linux安装篇"
 date:   2017-06-08 16:16:22 +0800
 categories: wymDon update
 ---
